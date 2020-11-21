@@ -10,7 +10,7 @@ This requires Cordova@10
     cordova plugin add @red-mobile/cordova-plugin-barcodescanner
 
 Optional variables:
-This plugin requires the Androidx leacy support library v4. Default value is `1.0.0`.  Check out the latest version [here](https://developer.android.com/jetpack/androidx/versions).
+This plugin requires the AndroidX legacy support library v4. Default value is `1.0.0`.  Check out the latest version [here](https://developer.android.com/jetpack/androidx/versions).
 
 ```
 % cordova plugin add @red-mobile/cordova-plugin-barcodescanner --variable ANDROIDX_LEGACY_SUPPORT_V4_VERSION="1.0.0"
