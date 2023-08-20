@@ -1,6 +1,6 @@
 {
   "name": "@red-mobile/cordova-plugin-barcodescanner",
-  "version": "9.0.7",
+  "version": "9.0.8",
   "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
   "cordova": {
     "id": "@red-mobile/cordova-plugin-barcodescanner",
