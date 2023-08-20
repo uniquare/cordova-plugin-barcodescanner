@@ -5,7 +5,7 @@ Cross-platform BarcodeScanner for Cordova.
 
 ## Installation
 
-This requires Cordova@10
+This requires Cordova@10 and more
 
     cordova plugin add @red-mobile/cordova-plugin-barcodescanner
 
