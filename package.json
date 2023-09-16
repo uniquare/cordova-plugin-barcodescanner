@@ -24,11 +24,10 @@
   },
   "homepage": "https://github.com/okhiroyuki/cordova-plugin-barcodescanner#readme",
   "scripts": {
-    "test": "jasmine-node --color spec"
+    "test": "npx jasmine"
   },
   "devDependencies": {
-    "jasmine-node": "3.0.0",
-    "pluginpub": "0.0.9"
+    "jasmine": "5.1.0"
   },
   "dependencies": {
     "nopt": "7.2.0",
