@@ -1,5 +1,5 @@
 dependencies {
-    implementation files('libs/barcodescanner-release-2.1.7.aar')
+    implementation files('libs/barcodescanner-release.aar')
 }
 
 android {
